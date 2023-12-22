@@ -1,5 +1,11 @@
 # framework-logo
 
+## 0.1.9
+
+### Patch Changes
+
+- e553d6f: feat: fresh added & date fixed
+
 ## 0.1.8
 
 ### Patch Changes
