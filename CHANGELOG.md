@@ -1,5 +1,11 @@
 # framework-logo
 
+## 0.2.5
+
+### Patch Changes
+
+- fc178f0: feat: tinijs added
+
 ## 0.2.4
 
 ### Patch Changes

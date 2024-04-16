@@ -1,6 +1,6 @@
 {
   "name": "framework-logo",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "print your favorite framework's logo and details into the cli",
   "author": "shirsendu bairagi <shirsendu2001@gmail.com>",
   "keywords": [
